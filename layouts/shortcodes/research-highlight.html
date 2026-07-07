@@ -1,0 +1,36 @@
+<article class="research-highlight">
+
+  <h3 class="research-highlight-title">
+    {{ .Get "title" }}
+  </h3>
+
+  {{ with .Get "authors" }}
+  <p class="research-highlight-authors">
+    {{ . | markdownify }}
+  </p>
+  {{ end }}
+
+  {{ with .Get "publication" }}
+  <p class="research-highlight-publication">
+    {{ . | markdownify }}
+  </p>
+  {{ end }}
+
+  <div class="research-highlight-body">
+
+    {{ with .Get "image" }}
+    <figure class="research-highlight-figure {{ $.Get "side" | default "left" }}">
+      <img src="{{ . | relURL }}" alt="{{ $.Get "alt" }}">
+      {{ with $.Get "caption" }}
+      <figcaption>{{ . | markdownify }}</figcaption>
+      {{ end }}
+    </figure>
+    {{ end }}
+
+    <div class="research-highlight-text">
+      {{ .Inner | markdownify }}
+    </div>
+
+  </div>
+
+</article>

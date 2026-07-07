@@ -1,0 +1,68 @@
+baseURL: "https://domimeyer.github.io/my-website/"
+locale: "en-US"
+title: "Dominique M.-A. Meyer"
+theme: ["PaperMod"]
+
+params:
+  env: production
+  defaultTheme: light
+  ShowReadingTime: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "Dominique M.-A. Meyer"
+    Content: >
+      Astrophysicist · Cultural history of the sky.  
+      
+      I study the birth, life and death of stars through numerical simulations,
+      and I write on the scientific and cultural memory of the sky.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/domimeyer"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-8258-9813"
+    - name: email
+      url: "mailto:dmameyer.astro@gmail.com"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=BzrBJrkAAAAJ&hl=en"
+    - name: linkedin
+      url: "mailto:dmameyer.astro@gmail.com"
+    - name: youtube
+      url: "https://www.youtube.com/@DominiqueMeyer-y9p/videos"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Research
+      url: /research/
+      weight: 2
+    - name: Research Highlights
+      url: /research-highlights/
+      weight: 3
+    - name: Publications
+      url: /publications/
+      weight: 4
+    - name: Codes
+      url: /codes-data/
+      weight: 5
+    - name: Outreach
+      url: /ecrire-le-ciel/
+      weight: 6
+    - name: Talks & Courses
+      url: /talks-courses/
+      weight: 7
+    - name: CV
+      url: /cv/
+      weight: 8
+    - name: Contact
+      url: /contact/
+      weight: 9
+      
+markup:
+  goldmark:
+    renderer:
+      unsafe: true      

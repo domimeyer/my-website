@@ -1,0 +1,8 @@
+/* Justify main page text */
+
+.post-content p,
+.page-content p,
+main p {
+  text-align: justify;
+  text-justify: inter-word;
+}

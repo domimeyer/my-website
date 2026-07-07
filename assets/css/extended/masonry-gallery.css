@@ -1,0 +1,45 @@
+/* Research image cards: 2 x 2 grid */
+
+.research-image-card-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin: 2rem 0 3rem 0;
+}
+
+.research-image-card {
+  background: var(--entry);
+  border-radius: 10px;
+  padding: 0.6rem;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+
+.research-image-card img {
+  width: 100%;
+  height: 210px;
+  object-fit: contain;
+  display: block;
+  border-radius: 7px;
+  background: rgba(127, 127, 127, 0.08);
+}
+
+.research-image-card p {
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+  opacity: 0.82;
+  margin: 0.5rem 0 0 0;
+  text-align: left !important;
+}
+
+/* Mobile only */
+@media (max-width: 600px) {
+  .research-image-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-image-card img {
+    height: auto;
+  }
+}

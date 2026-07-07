@@ -1,0 +1,5 @@
+/* Wider main text column for PaperMod */
+
+:root {
+  --main-width: 800px;
+}

@@ -1,0 +1,5 @@
+/* Smaller title for compact project cards */
+.project-card-compact h3 {
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+}

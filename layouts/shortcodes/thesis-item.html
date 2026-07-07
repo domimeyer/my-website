@@ -1,0 +1,27 @@
+<div class="thesis-item">
+
+  {{ with .Get "logo" }}
+  <div class="thesis-logo">
+    <img src="{{ . | relURL }}" alt="{{ $.Get "alt" }}">
+  </div>
+  {{ end }}
+
+  <div class="thesis-info">
+    <p class="thesis-title">{{ .Get "title" }}</p>
+
+    {{ with .Get "institution" }}
+    <p class="thesis-institution">{{ . }}</p>
+    {{ end }}
+
+    {{ with .Get "details" }}
+    <p class="thesis-details">{{ . }}</p>
+    {{ end }}
+
+    {{ with .Get "pdf" }}
+    <p class="thesis-link">
+      <a href="{{ . | relURL }}" target="_blank" rel="noopener">PDF manuscript</a>
+    </p>
+    {{ end }}
+  </div>
+
+</div>

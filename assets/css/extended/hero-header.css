@@ -1,0 +1,96 @@
+/* Image banner behind the site header and menu */
+
+.header {
+  position: relative;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.42), rgba(0, 0, 0, 0.42)),
+    url("/my-website/images/home/header-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center 50%;
+
+  /* More stable than cover: avoids strong zoom/crop changes */
+  background-size: 1800px auto;
+
+  min-height: 260px;
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Navigation inside the banner */
+.nav {
+  width: 100%;
+  padding-top: 1.3rem;
+  font-size: 1.05rem;
+}
+
+/* Site title */
+.logo a {
+  color: white !important;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+/* Menu items */
+.menu a {
+  color: white !important;
+  font-size: 1.02rem;
+  font-weight: 550;
+}
+
+.menu a:hover {
+  color: #e6e6e6 !important;
+}
+
+/* Make light/dark toggle visible on the banner */
+#theme-toggle {
+  color: white !important;
+  background: rgba(0, 0, 0, 0.35);
+  border-radius: 999px;
+  padding: 0.35rem;
+}
+
+#theme-toggle svg {
+  color: white !important;
+  fill: white !important;
+  stroke: white !important;
+}
+
+
+.header::after {
+  content: "Image credit: NASA";
+  position: absolute;
+  right: 1.2rem;
+  top: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.78rem;
+  background: rgba(0, 0, 0, 0.38);
+  padding: 0.25rem 0.45rem;
+  border-radius: 4px;
+}
+
+
+
+@media (max-width: 768px) {
+  .header {
+    min-height: 190px;
+    background-size: auto 100%;
+  }
+
+  .nav {
+    font-size: 0.95rem;
+  }
+
+  .logo a {
+    font-size: 1.15rem;
+  }
+
+  .menu a {
+    font-size: 0.95rem;
+  }
+
+  .header::after {
+    font-size: 0.68rem;
+    right: 0.6rem;
+    bottom: 0.45rem;
+  }
+}

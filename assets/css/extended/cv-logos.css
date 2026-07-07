@@ -1,0 +1,70 @@
+/* CV logos in framed cards */
+
+.cv-logo-card-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.1rem;
+  margin: 1.4rem 0 2rem 0;
+}
+
+.cv-logo-card {
+  background: var(--entry);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  min-height: 86px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+
+.cv-logo-card img {
+  display: block;
+  max-width: 100%;
+  max-height: 150px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  opacity: 1;
+  filter: none;
+}
+
+.cv-logo-card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
+}
+
+@media (max-width: 760px) {
+  .cv-logo-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .cv-logo-card {
+    min-height: 72px;
+    padding: 0.7rem;
+  }
+
+  .cv-logo-card img {
+    max-height: 38px;
+  }
+}
+
+
+/* Double logo card: CSIC + UAB */
+
+.cv-logo-card.cv-logo-card-double {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+}
+
+.cv-logo-card.cv-logo-card-double img {
+  max-width: 92% !important;
+  max-height: 44px !important;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}

@@ -24,45 +24,85 @@ interstellar medium.
 ## Projects and collaborations
 
 
-**CTA**
-
-**MaMOOtH**
-
-**NewAthena**
-
-**X-Shooting ULLYSES**
-
-**Mare Nostrum**
+**CTA**  
+Cherenkov Telescope Array  
+[Link](https://www.ctao.org/)    
 
 
+**MaMOOtH**  
+Massive star forming regions with Methanol Masers: Observations at High angular resolutions  
+[Link](https://group.asiaa.sinica.edu.tw/MaMMOtH/description.html)    
 
-## Image gallery 
+**NewAthena**  
+Next generation large X-ray observatory  
+[Link](https://www.the-athena-x-ray-observatory.eu/en/newathena-mission)    
 
 
-A selection of images from my publications and numerical simulations.
+**X-Shooting ULLYSES**  
+The ULLYSES and X-SHOOTER massive stars collaboration  
+[Link](https://massivestars.org/xshootu/)    
+
+
+**Mare Nostrum**  
+World-class supercomputer of the Barcelona Supercomputing Center  
+[Link](https://www.bsc.es/es/marenostrum/marenostrum)    
+
+
+**L'astronomie**  
+French-speaking outreach magazine on astronomie, edited by the French Society of Astronomy  
+[Link](https://lastronomie.fr/)    
+
+
+<div class="research-image-card-grid">
+
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/cta.png" >
+  </div>
+
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/xulysse.png" >
+  </div>
+
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/mamooth.png" >
+  </div>
+
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/athenafabicon.png" >
+  </div>
+  
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/bcn.png" >
+  </div>  
+  
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/lastronomie.png" >
+  </div>    
+
+</div>
+
+
+## Past projects
 
 
 
 <div class="research-image-card-grid">
 
   <div class="research-image-card">
-    <img src="/my-website/files/highlights/disc_HR.png" alt="Massive protostar outburst">
-    <p>Accretion disc around a massive protostar.</p>
+    <img src="/my-website/files/highlights/h2020.png" >
+  </div>
+  
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/nhratzibbg.png" >
   </div>
 
   <div class="research-image-card">
-    <img src="/my-website/files/highlights/meyer0008_crop.png" alt="Bow shock simulation">
-    <p>Bow shock around a massive star.</p>
+    <img src="/my-website/files/highlights/awesomestar.png" >
   </div>
 
   <div class="research-image-card">
-    <img src="/my-website/files/highlights/3D_rendering_mixing_clipped_30_degrees.png" alt="Supernova remnant simulation">
-    <p>Supernova remnant expanding into a structured circumstellar medium.</p>
+    <img src="/my-website/files/highlights/juelich.png" >
   </div>
 
-  <div class="research-image-card">
-    <img src="/my-website/files/highlights/plot_3D_VISIT_Blines_csm.png" alt="Pulsar wind nebula simulation">
-    <p>Pulsar wind nebula in the supernova remnant of a massive runaway star.</p>
-  </div>
 
 </div>

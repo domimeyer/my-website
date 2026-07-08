@@ -60,5 +60,45 @@ Bachelor thesis, Strasbourg, 2008
     <img src="/my-website/images/logos/uab.png" alt="CSIC">
   </div>
 
-
 </div>
+
+
+## Institutes
+
+<div class="cv-logo-card-grid cv-logo-card-double">
+
+ <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/phys_stras.png" >
+  </div>
+
+ <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/oas.png" >
+  </div>
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/ipcms.png" >
+  </div>
+
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/aifa.png" >
+  </div>
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/tu_phys.png" >
+  </div>
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/logo_exeter.png" >
+  </div>
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/logo_potsdam_physics.png" >
+  </div>
+
+  <div class="cv-logo-card">
+    <img src="/my-website/files/highlights/ice-csic-ieec_color.png" >
+  </div>
+  
+</div>
+

@@ -53,3 +53,12 @@ massif central, de mieux comprendre son évolution interne et de reconstituer le
 conditions du milieu interstellaire local. Cet article propose de retracer l’évolution du
 milieu circumstellaire des étoiles massives, depuis leur naissance jusqu’à leur mort.
 
+
+
+## Popular science papers
+
+**Los entornos de las estrellas masivas**  
+Observatorio de Sababdell, magazine Astrum, 2026
+
+Interview and paper for the journal Astrum of the Observatorio de Sababdell, 2026. 
+

@@ -4,11 +4,14 @@ draft: false
 
 ## Scientific topics  
 
-**Massive star formation**
 
-**Stellar wind bubbles of massive stars**
+**Accretion discs in massive star formation**
 
-**Stellar wind bow shocks of runaway stars**
+**Pre-main-sequence stellar evolution**
+
+**Stellar wind bubbles of OB stars**
+
+**Bow shocks of runaway massive stars**
 
 **Supergiant and Wolf-Rayet nebulae**
 
@@ -21,16 +24,16 @@ draft: false
 
 
 **4. Moving fast – How “runaway stars” shape the landscape of galactic supernova remnants**  
-English German
+[German](/my-website/files/press_releases/postdam_press_release_german.pdf) [English](/my-website/files/press_releases/postdam_press_release_english.pdf)
 
 **3. New simulations hint pulsar nebulae are influenced by the evolution of their progenitor stars**  
-English  Spanish  Catalan
+[English](/my-website/files/press_releases/Draft_Pulsars_EN.pdf)  [Spanish](/my-website/files/press_releases/Draft_Pulsars_ES.pdf)  [Catalan](/my-website/files/press_releases/Draft_Pulsars_CAT.pdf)
 
 **2. On the existence of accretion-driven outbursts in massive star formation**  
-English
+[English](/my-website/files/press_releases/press_release_kley.pdf)
 
 **1. Interacting supernovae from photoionization-confined shells around red supergiant stars**  
-German
+[German](/my-website/files/press_releases/Betelgeuse.pdf)
 
 
 ## Selected results  

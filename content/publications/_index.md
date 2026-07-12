@@ -8,13 +8,13 @@ draft: false
 
 As of my latest curriculum vitae, I have authored or co-authored:
 
-- **55 refereed journal papers plus 5 submissions and in-preparation manuscripts**
+- **57 refereed journal papers plus 3 submissions and in-preparation manuscripts**
 - **28 first-author refereed papers**
 - **7 Letters**
 - **2 single-author papers**
 - **Large-collaboration publications**, including work within CTA/CTAO-related science
 
-My publications have gathered more than **1650 citations**, with an **h-index of 25** according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 85% are in small collaborations.
+My publications have gathered more than **1650 citations**, with an **h-index of 24** according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 85% are in small collaborations.
 
 Selected papers are explained in more detail on the [Research Highlights](/my-website/research-highlights/) page.
 
@@ -29,34 +29,34 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 ## Complete publication list
 
 
-**Submitted / in revision refereed papers**
+**Submitted / in revision refereed papers** 
 
-
-**60. Erratum: Tracking protostellar variability in massive protoclusters with ALMA: I. Insights from QUARKS and MaMMOtH**  
-Yang Y., Liu T., Liu S.-Y., Johnstone D., Herczeg G., Jiao W., Su Y.-N., Mai X., Xu F., **Meyer D. M.-A.**, Zhang S., Vorobyov E., Zhang S., Luo Q., Garay G., Chen X., Jiao Y., Gu Q., Zhang Y., Tatematsu K., Kim K.-T., Sobolev A. M., Parfenov S., Ladeyschikov D., Bronfman L.  
-Submitted to ApJ 2026 
-
-**59. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
+**60. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
 Fogantini F. A., Oskinova L. M., Zeidler P., Bao T., Hamann W.-R., Soria R., **Meyer D. M.-A.**, Marchant P., Pauli D., Reyero Serantes S.  
 Submitted to ApJ 2026
 
-**58. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+**59. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
 Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
 Submitted to A&A 2026
 
-**57. The ALMA view on the disk/outflow system in the high-mass star-forming region IRAS 18089-1732-I: Vicinity and parameters of accretion disk**  
+**58. The ALMA view on the disk/outflow system in the high-mass star-forming region IRAS 18089-1732-I: Vicinity and parameters of accretion disk**  
 Hongzhi Yu, Andrey M. Sobolev, Sergey Yu Parfenov, Dmitry A. Ladeyschikov, Svetlana V. Salii, Anton I. Vasyunin, Sergey A. Khaibrakhmanov, **Meyer D. M.-A.**, Eduard I. Vorobyov, Sheng-Yuan Liu, Yu-Nung Su, Xi Chen  
 Submitted to ApJ 2026
 
-**56. Chasing Gamma-Ray Signals from Binary Neutron Star Coalescenses with the Cherenkov Telescope Array: Prospects and Observing Strategies**  
-CTA consortium incl. **Meyer D. M.-A.**  
-Submitted to A&A 2026
-
 **Accepted refereed papers**
 
-**55. Population synthesis of Galactic middle-aged pulsar wind nebulae I**  
+**57. Population synthesis of Galactic middle-aged pulsar wind nebulae I**  
 De Sarkar A., Torres D., Olmi B., Bucciantini N., **Meyer D. M.-A.**,  
 Accepted to A&A 2026
+
+
+**56. Erratum: Tracking protostellar variability in massive protoclusters with ALMA: I. Insights from QUARKS and MaMMOtH**  
+Yang Y., Liu T., Liu S.-Y., Johnstone D., Herczeg G., Jiao W., Su Y.-N., Mai X., Xu F., **Meyer D. M.-A.**, Zhang S., Vorobyov E., Zhang S., Luo Q., Garay G., Chen X., Jiao Y., Gu Q., Zhang Y., Tatematsu K., Kim K.-T., Sobolev A. M., Parfenov S., Ladeyschikov D., Bronfman L.  
+Accepted to The Astrophysical Journal, 2026
+
+**55. Chasing Gamma-Ray Signals from Binary Neutron Star Coalescenses with the Cherenkov Telescope Array: Prospects and Observing Strategies**  
+CTA consortium incl. **Meyer D. M.-A.**  
+The Astrophysical Journal, Volume 1004 2026, arXiv:2604.08748
 
 **54. Tracking protostellar variability in massive protoclusters with ALMA: I. Insights from QUARKS and MaMMOtH**  
 Yang Y., Liu T., Liu S.-Y., Johnstone D., Herczeg G., Jiao W., Su Y.-N., Mai X., Xu F., **Meyer D. M.-A.**, Zhang S., Vorobyov E., Zhang S., Luo Q., Garay G., Chen X., Jiao Y., Gu Q., Zhang Y., Tatematsu K., Kim K.-T., Sobolev A. M., Parfenov S., Ladeyschikov D., Bronfman L.  

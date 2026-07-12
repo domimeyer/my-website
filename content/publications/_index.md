@@ -32,7 +32,7 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 **Submitted / in revision refereed papers** 
 
 **60. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
-Fogantini F. A., Oskinova L. M., Zeidler P., Bao T., Hamann W.-R., Soria R., **Meyer D. M.-A.**, Marchant P., Pauli D., Reyero Serantes S.  
+Fogantini F. A. et al., incl. **Meyer D. M.-A.**  
 Submitted to ApJ 2026
 
 **59. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
@@ -48,7 +48,6 @@ Submitted to ApJ 2026
 **57. Population synthesis of Galactic middle-aged pulsar wind nebulae I**  
 De Sarkar A., Torres D., Olmi B., Bucciantini N., **Meyer D. M.-A.**,  
 Accepted to A&A 2026
-
 
 **56. Erratum: Tracking protostellar variability in massive protoclusters with ALMA: I. Insights from QUARKS and MaMMOtH**  
 Yang Y., Liu T., Liu S.-Y., Johnstone D., Herczeg G., Jiao W., Su Y.-N., Mai X., Xu F., **Meyer D. M.-A.**, Zhang S., Vorobyov E., Zhang S., Luo Q., Garay G., Chen X., Jiao Y., Gu Q., Zhang Y., Tatematsu K., Kim K.-T., Sobolev A. M., Parfenov S., Ladeyschikov D., Bronfman L.  
@@ -84,7 +83,7 @@ MNRAS, Volume 540 2025, arXiv:2405.04469
 
 **48. 3D MHD simulations of runaway pulsars in core-collapse supernova remnants**  
 **Meyer D. M.-A.**, Diego Torres, Z. Meliani  
-A&A, Volume 696, L5, 2025, arXiv:2503.21492
+A&A Letter, Volume 696, L5, 2025, arXiv:2503.21492
 
 **47. Material mixing in pulsar wind nebulae of massive runaway stars**  
 **Meyer D. M.-A.** and Diego Torres,  

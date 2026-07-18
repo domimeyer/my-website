@@ -28,7 +28,7 @@ params:
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=BzrBJrkAAAAJ&hl=en"
     - name: linkedin
-      url: "mailto:dmameyer.astro@gmail.com"
+      url: "www.linkedin.com/in/dominique-meyer-63562a410"
     - name: youtube
       url: "https://www.youtube.com/@DominiqueMeyer-y9p/videos"
 
@@ -52,7 +52,7 @@ menu:
     - name: Codes
       url: /codes-data/
       weight: 6
-    - name: Outreach
+    - name: Ecrire le ciel
       url: /ecrire-le-ciel/
       weight: 7
     - name: Talks & Courses

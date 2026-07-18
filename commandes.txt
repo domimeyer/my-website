@@ -1,0 +1,8 @@
+
+
+// Main page
+hugo.yaml
+
+
+// Other pages
+./content/ ...

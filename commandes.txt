@@ -6,3 +6,10 @@ hugo.yaml
 
 // Other pages
 ./content/ ...
+
+
+cd /home/dmeyer/Documents/recherche/others/webpage/page_pro
+git status
+git add .
+git commit -m "Update website"
+git push origin main

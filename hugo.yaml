@@ -26,7 +26,7 @@ params:
     - name: email
       url: "mailto:dmameyer.astro@gmail.com"
     - name: googlescholar
-      url: "https://www.linkedin.com/in/dominique-meyer-63562a410"
+      url: "https://scholar.google.com/citations?user=BzrBJrkAAAAJ&hl=en"
     - name: linkedin
       url: "https://www.linkedin.com/in/dominique-meyer-63562a410"
     - name: youtube

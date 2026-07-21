@@ -4,19 +4,43 @@ draft: false
 ---
 
 Alongside my scientific research, I write and speak for broader audiences on astronomy, astrophysics and the cultural history of the sky.
-
-This section gathers public talks, essays and articles at the intersection of modern astrophysics, ancient astronomy, transmission of knowledge and the human imagination of the heavens.
-
-
-
-## Essays
-
-
-**2. Les Syriaques : traduire le ciel grec. Quand une langue chrétienne d’Orient transforme l’astronomie antique en savoir transmissible**  
+This section gathers public talks, essays and articles at the intersection of modern astrophysics, ancient astronomy, transmission of knowledge 
+and the human imagination of the heavens.
 
 
 
-**1. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
+
+**6. Les Syriaques : traduire le ciel grec. Quand une langue chrétienne d’Orient transforme l’astronomie antique en savoir transmissible**  
+In prep. 
+
+
+
+**5. La formation des étoiles massives**  
+In prep. 
+
+
+
+**4. The deep sky project**  
+Submitted to L'astronomie, magazine de la Societé Astronomique Française
+
+
+
+**3. Le milieu circumstellaire des étoiles massives**  
+Submitted to L'astronomie, magazine de la Societé Astronomique Française
+
+
+Les nébuleuses sont des étendues de gaz et de poussières présentes dans le milieu interstellaire des galaxies, absorbant, 
+diffusant et émettant de la lumière, qui nous parvient. Elles sont souvent associées à l’environnement proche des étoiles, 
+appelé milieu circumstellaire. Dans le cas particulier des étoiles les plus massives, ce milieu circumstellaire est directement 
+façonné par leurs vents et par leur rayonnement intense, produisant ainsi des nébuleuses étendues observables. Rares, les 
+étoiles massives jouent un rôle déterminant dans l’évolution des galaxies In prep.et sculpent autour d’elles ces structures immenses, 
+en raison de la puissance de leurs vents et de la quantité d’énergie qu’elles libèrent. L’observation de ces objets permet 
+d’y lire l’histoire passée et future de leur astre massif central, de mieux comprendre son évolution interne et de reconstituer 
+les conditions du milieu interstellaire local. Cet article propose de retracer l’évolution du milieu circumstellaire 
+des étoiles massives, depuis leur naissance jusqu’à leur mort.
+
+
+**2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
 L'astronomie, magazine de la Societé Astronomique Française, septembre 2026
 
 
@@ -28,35 +52,6 @@ elle touche à une mémoire culturelle et au rapport au sens. Revenir sur l’hi
 mesurer l’ampleur de cette mutation.
 
 
-
-## Outreach articles
-
-
-**2. La formation des étoiles massives**  
-
-
-**1. Le milieu circumstellaire des étoiles massives**  
-Submitted to L'astronomie, magazine de la Societé Astronomique Française
-
-
-Les nébuleuses sont des étendues de gaz et de poussières présentes dans le milieu interstellaire des galaxies, absorbant, 
-diffusant et émettant de la lumière, qui nous parvient. Elles sont souvent associées à l’environnement proche des étoiles, 
-appelé milieu circumstellaire. Dans le cas particulier des étoiles les plus massives, ce milieu circumstellaire est directement 
-façonné par leurs vents et par leur rayonnement intense, produisant ainsi des nébuleuses étendues observables. Rares, les 
-étoiles massives jouent un rôle déterminant dans l’évolution des galaxies et sculpent autour d’elles ces structures immenses, 
-en raison de la puissance de leurs vents et de la quantité d’énergie qu’elles libèrent. L’observation de ces objets permet 
-d’y lire l’histoire passée et future de leur astre massif central, de mieux comprendre son évolution interne et de reconstituer 
-les conditions du milieu interstellaire local. Cet article propose de retracer l’évolution du milieu circumstellaire 
-des étoiles massives, depuis leur naissance jusqu’à leur mort.
-
-
-## Popular science papers
-
-
-**2. The deep sky project**  
-
-
-
 **1. Los entornos de las estrellas masivas**  
 Observatorio de Sababdell, magazine Astrum, 2026
 
@@ -64,14 +59,6 @@ Observatorio de Sababdell, magazine Astrum, 2026
 Interview and paper for the journal Astrum of the Observatorio de Sababdell, 2026.
 
 
-
-## Public talks
-
-**1. Los entornos de las estrellas masivas**  
-Observatorio de Sababdell, marzo 2025
-
-Public talk given at Observatorio de Sababdell on astronomy, astrophysics and our understanding of the sky.
-This lecture presented my current research on massive stars surroudings and pulsar wind nebulae.
 
 
 

@@ -20,7 +20,7 @@ In prep.
 
 
 
-**4. The deep sky project**  
+**4. The Deep Sky Collective**  
 Submitted to L'astronomie, magazine de la Societé Astronomique Française
 
 

@@ -52,14 +52,6 @@ elle touche à une mémoire culturelle et au rapport au sens. Revenir sur l’hi
 mesurer l’ampleur de cette mutation.
 
 
-<div class="research-image-card-grid" style="display:flex; justify-content:center;">
-  <div class="research-image-card" style="text-align:center;">
-    <img src="/my-website/files/highlights/astro_starlink.png" alt="" style="display:block; margin:0 auto; max-width:100%; height:auto;">
-    <p></p>
-  </div>
-</div>
-
-
 
 
 **1. Los entornos de las estrellas masivas**  

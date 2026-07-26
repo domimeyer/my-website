@@ -52,6 +52,18 @@ elle touche à une mémoire culturelle et au rapport au sens. Revenir sur l’hi
 mesurer l’ampleur de cette mutation.
 
 
+<div class="research-image-card-grid">
+
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/astro_starlink.png"  >
+    <p></p>
+  </div>    
+      
+</div>
+
+
+
+
 **1. Los entornos de las estrellas masivas**  
 Observatorio de Sababdell, magazine Astrum, 2026
 

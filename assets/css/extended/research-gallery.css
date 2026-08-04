@@ -48,6 +48,7 @@
 /* Larger single image for outreach/article illustration */
 
 .outreach-large-image img {
-  height: 310px !important;
+  height: 350px !important;
   object-fit: contain;
 }
+

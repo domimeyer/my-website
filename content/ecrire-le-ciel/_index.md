@@ -51,7 +51,7 @@ de rites et de poésie, cette érosion d’un bien commun au sens d’expérienc
 elle touche à une mémoire culturelle et au rapport au sens. Revenir sur l’histoire du firmament oriental permet de 
 mesurer l’ampleur de cette mutation.
 
-
+![](/my-website/files/highlights/astro_starlink.png")
 
 
 **1. Los entornos de las estrellas masivas**  

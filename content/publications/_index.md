@@ -14,7 +14,7 @@ As of my latest curriculum vitae, I have authored or co-authored:
 - **2 single-author papers**
 - **Large-collaboration publications**, including work within CTA/CTAO-related science
 
-My publications have gathered more than **1650 citations**, with an **h-index of 24** according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 85% are in small collaborations.
+My publications have gathered more than **1683 citations**, with an **h-index of 25** according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 82% are in small collaborations.
 
 Selected papers are explained in more detail on the [Research Highlights](/my-website/research-highlights/) page.
 

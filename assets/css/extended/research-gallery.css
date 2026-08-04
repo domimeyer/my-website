@@ -43,3 +43,11 @@
     height: auto;
   }
 }
+
+
+/* Larger single image for outreach/article illustration */
+
+.outreach-large-image img {
+  height: 310px !important;
+  object-fit: contain;
+}

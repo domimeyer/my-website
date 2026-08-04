@@ -51,8 +51,11 @@ de rites et de poésie, cette érosion d’un bien commun au sens d’expérienc
 elle touche à une mémoire culturelle et au rapport au sens. Revenir sur l’histoire du firmament oriental permet de 
 mesurer l’ampleur de cette mutation.
 
-![](/my-website/files/highlights/astro_starlink.png")
+![]("/my-website/files/highlights/astro_starlink.png")
 
+  <div class="research-image-card">
+    <img src="/my-website/files/highlights/astro_starlink.png" >
+  </div>
 
 **1. Los entornos de las estrellas masivas**  
 Observatorio de Sababdell, magazine Astrum, 2026

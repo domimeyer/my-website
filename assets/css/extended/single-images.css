@@ -1,0 +1,23 @@
+/* Single image inserted inside a page */
+
+.single-page-image {
+  margin: 1.8rem auto;
+  max-width: 720px;
+  text-align: center;
+}
+
+.single-page-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  background: rgba(127, 127, 127, 0.08);
+}
+
+.single-page-image figcaption {
+  font-size: 0.82rem;
+  line-height: 1.35;
+  opacity: 0.75;
+  margin-top: 0.45rem;
+  text-align: left;
+}

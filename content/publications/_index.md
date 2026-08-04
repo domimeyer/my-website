@@ -32,7 +32,7 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 **Submitted / in revision refereed papers** 
 
 **60. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
-Fogantini F., Zeidler P., Oskinova L., Bao T., Hamann W.-R., Marchant P., **Meyer D. M.-A.**, Pauli D., Reyero Serantes S., Soria R.
+Fogantini F., Zeidler P., Oskinova L., Bao T., Hamann W.-R., Marchant P., **Meyer D. M.-A.**, Pauli D., Reyero Serantes S., Soria R.  
 Submitted to ApJ 2026
 
 **59. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  

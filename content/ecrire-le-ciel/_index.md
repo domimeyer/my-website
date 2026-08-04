@@ -53,7 +53,7 @@ mesurer l’ampleur de cette mutation.
 
 
 <div class="outreach-large-image">
-  <img src="/my-website/static/files/highlights/astro_starlink.png">
+  <img src="/my-website/files/highlights/astro_starlink.png">
 </div>
 
 **1. Los entornos de las estrellas masivas**  

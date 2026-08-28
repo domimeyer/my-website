@@ -1,0 +1,49 @@
+/* Outreach / Écrire le ciel gallery: 2 x 2 grid */
+
+.outreach-gallery-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin: 2rem 0 3rem 0;
+}
+
+.outreach-gallery-card {
+  background: var(--entry);
+  border-radius: 10px;
+  padding: 0.65rem;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.10);
+}
+
+.outreach-gallery-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+  display: block;
+  border-radius: 7px;
+  background: rgba(127, 127, 127, 0.08);
+}
+
+.outreach-gallery-card p {
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.35;
+  opacity: 0.82;
+  margin: 0.55rem 0 0 0;
+  text-align: left !important;
+}
+
+.outreach-gallery-card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
+}
+
+@media (max-width: 650px) {
+  .outreach-gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .outreach-gallery-card img {
+    height: auto;
+  }
+}

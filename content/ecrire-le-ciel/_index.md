@@ -3,10 +3,16 @@ title: ""
 draft: false
 ---
 
+
+
+
+
 Alongside my scientific research, I write and speak for broader audiences on astronomy, astrophysics and the cultural history of the sky.
 This section gathers public talks, essays and articles at the intersection of modern astrophysics, ancient astronomy, transmission of knowledge 
 and the human imagination of the heavens.
 
+
+## Articles
 
 
 
@@ -26,9 +32,7 @@ Submitted to L'astronomie, magazine de la Societé Astronomique Française
 
 
 **3. Le milieu circumstellaire des étoiles massives**  
-Submitted to L'astronomie, magazine de la Societé Astronomique Française
-
-
+Submitted to L'astronomie, magazine de la Societé Astronomique Française. 
 Les nébuleuses sont des étendues de gaz et de poussières présentes dans le milieu interstellaire des galaxies, absorbant, 
 diffusant et émettant de la lumière, qui nous parvient. Elles sont souvent associées à l’environnement proche des étoiles, 
 appelé milieu circumstellaire. Dans le cas particulier des étoiles les plus massives, ce milieu circumstellaire est directement 
@@ -40,10 +44,9 @@ les conditions du milieu interstellaire local. Cet article propose de retracer l
 des étoiles massives, depuis leur naissance jusqu’à leur mort.
 
 
+
 **2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
-L'astronomie, magazine de la Societé Astronomique Française, septembre 2026
-
-
+L'astronomie, magazine de la Societé Astronomique Française, septembre 2026. 
 Au Proche-Orient, la conflictualité s’intensifie, les crises se multiplient et le ciel nocturne change lui aussi : des 
 astres artificiels forment de nouvelles constellations qui rappellent que les orbites sont désormais une infrastructure 
 stratégique et un enjeu de puissance. Dans une région où la voûte céleste a longtemps été un espace de récits fondateurs, 
@@ -56,11 +59,24 @@ mesurer l’ampleur de cette mutation.
   <img src="/my-website/files/highlights/astro_starlink.png">
 </div>
 
+
+
 **1. Los entornos de las estrellas masivas**  
-Observatorio de Sababdell, magazine Astrum, 2026
-
-
+Observatorio de Sababdell, magazine Astrum, 2026. 
 Interview and paper for the journal Astrum of the Observatorio de Sababdell, 2026.
+
+
+## Magazines
+
+
+<div class="outreach-gallery-grid">
+
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >
+    <p> September 2026 </p>
+  </div>
+
+</div>
 
 
 

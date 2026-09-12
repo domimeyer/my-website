@@ -52,7 +52,7 @@ menu:
     - name: Codes
       url: /codes-data/
       weight: 6
-    - name: Ecrire le ciel
+    - name: Outreach
       url: /ecrire-le-ciel/
       weight: 7
     - name: Talks & Courses

@@ -20,12 +20,24 @@ and the human imagination of the heavens.
 ## Articles
 
 
-**4. Le Deep Sky Collective : l’observation mutualisée du ciel**  
+**7. La mort des étoiles massives et leur environnement**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**6. L’évolution du milieu circumstellaire des étoiles massives**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**5. Le milieu circumstellaire des étoiles massives**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**4. Le cycle de vie du milieu interstellaire**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
 Submitted to L'astronomie, magazine de la Societé Astronomique Française
-
-
-**3. Le milieu circumstellaire des étoiles massives**  
-Submitted to L'astronomie, magazine de la Societé Astronomique Française. 
 
 
 **2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  

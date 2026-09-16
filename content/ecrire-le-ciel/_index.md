@@ -17,40 +17,40 @@ and the human imagination of the heavens.
 </div>
 
 
-## Articles
+## Magazines articles
 
 
-**7. La mort des étoiles massives et leur environnement**  
+**8. La mort des étoiles massives et leur environnement**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**6. L’évolution du milieu circumstellaire des étoiles massives**  
+**7. L’évolution du milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**5. Le milieu circumstellaire des étoiles massives**  
+**6. Le milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**4. Le cycle de vie du milieu interstellaire**  
+**5. Le cycle de vie du milieu interstellaire**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
+**4. Le Deep Sky Collective : l’observation mutualisée du ciel**  
 Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
 
 
-**2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
+**3. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
 L'astronomie, magazine de la Societé Astronomique Française, septembre 2026. 
 
 
+**2. Los entornos de las estrellas masivas**  
+Interview for the journal Astrum of the Observatorio de Sababdell, 2026.
+
+
 **1. Los entornos de las estrellas masivas**  
-Observatorio de Sababdell, magazine Astrum, 2026. 
-Interview and paper for the journal Astrum of the Observatorio de Sababdell, 2026.
+Paper for annual book of conference series of the Observatorio de Sababdell, 2026.
 
-
-
-## Magazines
 
 
 <div class="outreach-gallery-grid">

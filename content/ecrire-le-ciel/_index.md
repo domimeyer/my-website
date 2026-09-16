@@ -45,11 +45,11 @@ L'astronomie, magazine de la Societé Astronomique Française, septembre 2026.
 
 
 **2. Los entornos de las estrellas masivas**  
-Interview for the journal Astrum of the Observatorio de Sababdell, 2026.
+Interview for the journal Astrum of the Observatorio de Sababdell, 2025.
 
 
 **1. Los entornos de las estrellas masivas**  
-Paper for annual book of conference series of the Observatorio de Sababdell, 2026.
+Paper for annual book of conference series of the Observatorio de Sababdell, 2025.
 
 
 
@@ -75,7 +75,7 @@ Observatorio de Sababdell, 26 March 2025.
 
   <div class="outreach-gallery-card">
     <img src="/my-website/files/highlights/conference_sabadell.png" >
-    <p> March 2025 </p>
+    <p> March 2024 </p>
   </div>
 
 </div>

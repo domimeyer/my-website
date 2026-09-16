@@ -37,7 +37,7 @@ In prep. for L'astronomie, magazine de la Societé Astronomique Française.
 
 
 **3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
-Submitted to L'astronomie, magazine de la Societé Astronomique Française
+Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
 
 
 **2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
@@ -47,7 +47,6 @@ L'astronomie, magazine de la Societé Astronomique Française, septembre 2026.
 **1. Los entornos de las estrellas masivas**  
 Observatorio de Sababdell, magazine Astrum, 2026. 
 Interview and paper for the journal Astrum of the Observatorio de Sababdell, 2026.
-
 
 
 
@@ -64,6 +63,19 @@ Interview and paper for the journal Astrum of the Observatorio de Sababdell, 202
 </div>
 
 
+## Public talks
+
+
+**1. Los entornos de las estrellas masivas**  
+Observatorio de Sababdell, 26 March 2025. 
 
 
 
+<div class="outreach-gallery-grid">
+
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/conference_sabadell.png" >
+    <p> March 2025 </p>
+  </div>
+
+</div>

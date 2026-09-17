@@ -20,37 +20,32 @@ and the human imagination of the heavens.
 ## Magazines articles
 
 
-**8. La mort des étoiles massives et leur environnement**  
+**7. La mort des étoiles massives et leur environnement**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**7. L’évolution du milieu circumstellaire des étoiles massives**  
+**6. L’évolution du milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**6. Le milieu circumstellaire des étoiles massives**  
+**5. Le milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**5. Le cycle de vie du milieu interstellaire**  
+**4. Le cycle de vie du milieu interstellaire**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**4. Le Deep Sky Collective : l’observation mutualisée du ciel**  
+**3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
 Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
 
 
-**3. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
+**2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  
 L'astronomie, magazine de la Societé Astronomique Française, septembre 2026. 
-
-
-**2. Los entornos de las estrellas masivas**  
-Interview for the journal Astrum of the Observatorio de Sababdell, 2025.
 
 
 **1. Los entornos de las estrellas masivas**  
 Paper for annual book of conference series of the Observatorio de Sababdell, 2025.
-
 
 
 <div class="outreach-gallery-grid">
@@ -59,6 +54,12 @@ Paper for annual book of conference series of the Observatorio de Sababdell, 202
     <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >
     <p> September 2026 </p>
   </div>
+
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/Llibre_65_ConferVol2.png" >
+    <p> March 2025 </p>
+  </div>
+
 
 </div>
 

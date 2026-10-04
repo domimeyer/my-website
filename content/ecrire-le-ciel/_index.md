@@ -20,12 +20,16 @@ and the human imagination of the heavens.
 ## Magazines articles
 
 
-**7. La mort des étoiles massives et leur environnement**  
+**8. La mort des étoiles massives et leur environnement**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**6. L’évolution du milieu circumstellaire des étoiles massives**  
+**7. L’évolution du milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**6. Del sagrat dels cels d’Orient als satèl·lits Starlink**  
+Subm. paper for the magazine Astrum of the Observatorio de Sababdell, 2026. 
 
 
 **5. Le milieu circumstellaire des étoiles massives**  
@@ -64,19 +68,4 @@ Paper for annual book of conference series of the Observatorio de Sababdell, 202
 </div>
 
 
-## Public talks
 
-
-**1. Los entornos de las estrellas masivas**  
-Observatorio de Sababdell, 26 March 2025. 
-
-
-
-<div class="outreach-gallery-grid">
-
-  <div class="outreach-gallery-card">
-    <img src="/my-website/files/highlights/conference_sabadell.png" >
-    <p> March 2024 </p>
-  </div>
-
-</div>

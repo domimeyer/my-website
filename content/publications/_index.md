@@ -32,6 +32,22 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 
 **Submitted / in revision refereed papers** 
 
+**64. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
+Submitted to A&A 2026
+
+**63. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
+Submitted to A&A 2026
+
+**62. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
+Submitted to A&A 2026
+
+**61. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
+Submitted to A&A 2026
+
 **60. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
 Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
 Submitted to A&A 2026
@@ -45,15 +61,15 @@ Submitted to ApJ 2026
 
 **58. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
 Fogantini F., Zeidler P., Oskinova L., Bao T., Hamann W.-R., Marchant P., **Meyer D. M.-A.**, Pauli D., Reyero Serantes S., Soria R.  
-Submitted to ApJ 2026
+Accepted to ApJ 2026, eprint arXiv:2610.20948
 
 **57. Population synthesis of Galactic middle-aged pulsar wind nebulae I**  
 De Sarkar A., Torres D., Olmi B., Bucciantini N., **Meyer D. M.-A.**,  
-Accepted to A&A 2026
+A&A, Volume 711 2026
 
 **56. Erratum: Tracking protostellar variability in massive protoclusters with ALMA: I. Insights from QUARKS and MaMMOtH**  
 Yang Y., Liu T., Liu S.-Y., Johnstone D., Herczeg G., Jiao W., Su Y.-N., Mai X., Xu F., **Meyer D. M.-A.**, Zhang S., Vorobyov E., Zhang S., Luo Q., Garay G., Chen X., Jiao Y., Gu Q., Zhang Y., Tatematsu K., Kim K.-T., Sobolev A. M., Parfenov S., Ladeyschikov D., Bronfman L.  
-Accepted to The Astrophysical Journal, 2026
+The Astrophysical Journal, Volume 1006 2026
 
 **55. Chasing Gamma-Ray Signals from Binary Neutron Star Coalescenses with the Cherenkov Telescope Array: Prospects and Observing Strategies**  
 CTA consortium incl. **Meyer D. M.-A.**  
@@ -65,11 +81,11 @@ The Astrophysical Journal, Volume 1003 2026, arXiv:2512.10298
 
 **53. Classical, large scale 3D MHD simulations of interacting pulsar wind nebulae**  
 **Meyer D. M.-A.**, Torres D.  
-Accepted to A&A 708 2026, arXiv:2602.21795 
+A&A Volume 708 2026, arXiv:2602.21795 
 
 **52. Prospects for dark matter observations in dwarf spheroidal galaxies with the Cherenkov Telescope Array Observatory**  
 CTA consortium incl. **Meyer D. M.-A.**  
-Acceped to MNRAS 2025, arxiv:2508.19120
+MNRAS 2025, Volume 544, Issue 3, arxiv:2508.19120
 
 **51. Runaway stars and the Galactic supernova remnant landscape: non-thermal emission and observational evidence**  
 Batzofin R., Egberts K., **Meyer D. M.-A.**, Steppa C.  

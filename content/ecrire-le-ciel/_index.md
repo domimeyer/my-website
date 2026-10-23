@@ -20,6 +20,9 @@ and the human imagination of the heavens.
 ## Magazines articles
 
 
+**In preparation**  
+
+
 **8. La mort des étoiles massives et leur environnement**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
@@ -34,6 +37,9 @@ In prep. for L'astronomie, magazine de la Societé Astronomique Française.
 
 **5. Le cycle de vie du milieu interstellaire**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**Published / submitted**  
 
 
 **4. Del sagrat dels cels d’Orient als satèl·lits Starlink**  

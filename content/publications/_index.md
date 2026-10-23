@@ -41,11 +41,11 @@ Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**
 Submitted to A&A 2026
 
 **62. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
-Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
-Submitted to A&A 2026
+Vargas-Rojas K. M. et al. incl. **Meyer D. M.-A.**  
+Submitted to PASP 2026
 
-**61. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
-Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
+**61. Core-collapse supernovae with CTAO**  
+CTA consortium incl. **Meyer D. M.-A.**  
 Submitted to A&A 2026
 
 **60. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  

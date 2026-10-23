@@ -52,7 +52,7 @@ L'astronomie, magazine de la Societé Astronomique Française, septembre 2026.
 Paper for annual book of conference series of the Observatorio de Sababdell, 2025.
 
 
-<div class="outreach-gallery-grid">
+<div class="outreach-gallery-grid gallery-three-columns">
 
   <div class="outreach-gallery-card">
     <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >

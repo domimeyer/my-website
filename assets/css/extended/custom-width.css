@@ -12,12 +12,13 @@
   max-width: 800px;
 }
 
-/* Only the Gallery page gets a third column.
+/* Gallery, Research and Outreach use three columns.
    Fixed-width tracks wrap to two, then one, as space decreases. */
-.research-image-card-grid.gallery-three-columns {
+.research-image-card-grid.gallery-three-columns,
+.outreach-gallery-grid.gallery-three-columns {
   max-width: none;
   grid-template-columns: repeat(
-    auto-fit,
+    auto-fill,
     minmax(min(100%, var(--gallery-card-width)), var(--gallery-card-width))
   );
   justify-content: center;
@@ -25,5 +26,16 @@
 
 .research-image-card-grid.gallery-three-columns .research-image-card img {
   height: 300px;
+  object-fit: contain;
+}
+
+/* Enlarge the opening article spread while keeping its original proportions. */
+.post-content .outreach-large-image {
+  width: 100%;
+  max-width: 1000px;
+}
+.post-content .outreach-large-image img {
+  width: 100%;
+  height: auto !important;
   object-fit: contain;
 }

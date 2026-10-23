@@ -8,13 +8,14 @@ draft: false
 
 As of my latest curriculum vitae, I have authored or co-authored:
 
-- **57 refereed journal papers plus 3 submissions and in-preparation manuscripts**
+- **58 refereed journal papers plus 3 submissions and in-preparation manuscripts**
 - **28 first-author refereed papers**
 - **7 Letters**
 - **2 single-author papers**
 - **Large-collaboration publications**, including work within CTA/CTAO-related science
 
-My publications have gathered more than **1723 citations**, with an **h-index of 26** according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 82% are in small collaborations.
+
+My publications have gathered more than **1759 citations**, with an **h-index of 26** and an 10-index of 45 according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 82% are in small collaborations.
 
 Selected papers are explained in more detail on the [Research Highlights](/my-website/research-highlights/) page.
 
@@ -31,19 +32,20 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 
 **Submitted / in revision refereed papers** 
 
-**60. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
-Fogantini F., Zeidler P., Oskinova L., Bao T., Hamann W.-R., Marchant P., **Meyer D. M.-A.**, Pauli D., Reyero Serantes S., Soria R.  
-Submitted to ApJ 2026
-
-**59. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+**60. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
 Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
 Submitted to A&A 2026
 
-**58. The ALMA view on the disk/outflow system in the high-mass star-forming region IRAS 18089-1732-I: Vicinity and parameters of accretion disk**  
+**59. The ALMA view on the disk/outflow system in the high-mass star-forming region IRAS 18089-1732-I: Vicinity and parameters of accretion disk**  
 Hongzhi Yu, Andrey M. Sobolev, Sergey Yu Parfenov, Dmitry A. Ladeyschikov, Svetlana V. Salii, Anton I. Vasyunin, Sergey A. Khaibrakhmanov, **Meyer D. M.-A.**, Eduard I. Vorobyov, Sheng-Yuan Liu, Yu-Nung Su, Xi Chen  
 Submitted to ApJ 2026
 
 **Accepted refereed papers**
+
+
+**58. JWST reveals a highly ionized nebula powered by an ultraluminous X-ray source with a massive black hole in the metal-poor galaxy Holmberg II**  
+Fogantini F., Zeidler P., Oskinova L., Bao T., Hamann W.-R., Marchant P., **Meyer D. M.-A.**, Pauli D., Reyero Serantes S., Soria R.  
+Submitted to ApJ 2026
 
 **57. Population synthesis of Galactic middle-aged pulsar wind nebulae I**  
 De Sarkar A., Torres D., Olmi B., Bucciantini N., **Meyer D. M.-A.**,  

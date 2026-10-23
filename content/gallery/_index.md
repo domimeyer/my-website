@@ -5,7 +5,7 @@
 
 
 
-<div class="research-image-card-grid">
+<div class="research-image-card-grid gallery-three-columns">
 
   <div class="research-image-card">
     <img src="/my-website/files/highlights/disc_HR.png"  >

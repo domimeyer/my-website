@@ -1,5 +1,29 @@
-/* Wider main text column for PaperMod */
-
+/* Wider text column; three gallery cards keep their original desktop size. */
 :root {
-  --main-width: 800px;
+  /* Original cards: (800px - 1.2rem gap) / 2. */
+  --gallery-card-width: calc((800px - 1.2rem) / 2);
+  --main-width: calc(1200px + 0.6rem);
+}
+
+/* Keep the existing image sizes in other sections. */
+.gallery-card-grid,
+.research-image-card-grid,
+.outreach-gallery-grid {
+  max-width: 800px;
+}
+
+/* Only the Gallery page gets a third column.
+   Fixed-width tracks wrap to two, then one, as space decreases. */
+.research-image-card-grid.gallery-three-columns {
+  max-width: none;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(min(100%, var(--gallery-card-width)), var(--gallery-card-width))
+  );
+  justify-content: center;
+}
+
+.research-image-card-grid.gallery-three-columns .research-image-card img {
+  height: 300px;
+  object-fit: contain;
 }

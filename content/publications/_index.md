@@ -37,7 +37,7 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 Vargas-Rojas K. M. et al. incl. **Meyer D. M.-A.**  
 Submitted to PASA 2026
 
-**61. Core-collapse supernovae with CTAO**  
+**61. Prospects for detecting high-energy emission from extragalactic core-collapse supernovae with the Cherenkov Telescope Array Observatory**  
 CTA consortium incl. **Meyer D. M.-A.**  
 Submitted to A&A 2026
 

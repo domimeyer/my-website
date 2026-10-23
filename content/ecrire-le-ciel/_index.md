@@ -28,16 +28,16 @@ In prep. for L'astronomie, magazine de la Societé Astronomique Française.
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**6. Del sagrat dels cels d’Orient als satèl·lits Starlink**  
+**6. Le milieu circumstellaire des étoiles massives**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**5. Le cycle de vie du milieu interstellaire**  
+In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
+
+
+**4. Del sagrat dels cels d’Orient als satèl·lits Starlink**  
 Subm. paper for the magazine Astrum of the Observatorio de Sababdell, 2026. 
-
-
-**5. Le milieu circumstellaire des étoiles massives**  
-In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
-
-
-**4. Le cycle de vie du milieu interstellaire**  
-In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
 **3. Le Deep Sky Collective : l’observation mutualisée du ciel**  

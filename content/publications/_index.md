@@ -32,17 +32,10 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 
 **Submitted / in revision refereed papers** 
 
-**64. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
-Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
-Submitted to A&A 2026
 
-**63. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
-Torres D., De Sarkar A., Olmi B., Bucciantini N., **Meyer D. M.-A.**  
-Submitted to A&A 2026
-
-**62. Population synthesis of Galactic middle-aged pulsar wind nebulae II**  
+**62. Modelling the synchrotron radio emission from Kepler’s supernova remnant with 3D MHD numerical simulations**  
 Vargas-Rojas K. M. et al. incl. **Meyer D. M.-A.**  
-Submitted to PASP 2026
+Submitted to PASA 2026
 
 **61. Core-collapse supernovae with CTAO**  
 CTA consortium incl. **Meyer D. M.-A.**  

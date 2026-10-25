@@ -10,9 +10,9 @@ As of my latest curriculum vitae, I have authored or co-authored:
 
 - **58 refereed journal papers plus 3 submissions and in-preparation manuscripts**
 - **28 first-author refereed papers**
-- **7 Letters**
+- **8 Letters**
 - **2 single-author papers**
-- **Large-collaboration publications**, including work within CTA/CTAO-related science
+- **Large collaboration publications**, including work within CTA/CTAO related science
 
 
 My publications have gathered more than **1759 citations**, with an **h-index of 26** and an 10-index of 45 according to Google Scholar. Excluding submissions, **I am first author in 50% of all my papers**, 82% are in small collaborations.

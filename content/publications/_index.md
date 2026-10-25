@@ -27,7 +27,7 @@ Selected papers are explained in more detail on the [Research Highlights](/my-we
 - [arXiv author search](https://arxiv.org/search/astro-ph?query=D.+M.+-A.+Meyer&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
 
-## Complete publication list
+## Complete refered publication list
 
 
 **Submitted / in revision refereed papers** 

@@ -13,7 +13,8 @@ and the human imagination of the heavens.
 
 
 <div class="outreach-large-image">
-  <img src="/my-website/files/highlights/astro_starlink.png"><p> D. Meyer, L'astronomie, September 2026 </p>
+  <img src="/my-website/files/highlights/Astrum_cielo_2026.png"><p> D. Meyer, L'astronomie, September 2026 </p>
+  <img src="/my-website/files/highlights/astro_starlink.png"><p> D. Meyer, Astrum, November 2026 </p>
 </div>
 
 
@@ -23,27 +24,34 @@ and the human imagination of the heavens.
 **In preparation**  
 
 
-**8. La mort des étoiles massives et leur environnement**  
+**9. La mort des étoiles massives et leur environnement**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**7. L’évolution du milieu circumstellaire des étoiles massives**  
+**8. L’évolution du milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**6. Le milieu circumstellaire des étoiles massives**  
+**7. Le milieu circumstellaire des étoiles massives**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**5. Le cycle de vie du milieu interstellaire**  
+**Submitted**  
+
+
+**6. Le cycle de vie du milieu interstellaire**  
 In prep. for L'astronomie, magazine de la Societé Astronomique Française. 
 
 
-**Published / submitted**  
+**Published**  
 
 
-**4. Del sagrat dels cels d’Orient als satèl·lits Starlink**  
-Subm. paper for the magazine Astrum of the Observatorio de Sababdell, 2026. 
+**5. Entrevista**  
+Astrum, numero 388, Astrosabadell, Agrupacion Astronomica Sabadelll, 2026. 
+
+
+**4. De lo sagrado de los cielos de Oriente a los satelites Starlink**  
+Astrum, numero 388, Astrosabadell, Agrupacion Astronomica Sabadell, 2026. 
 
 
 **3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
@@ -55,11 +63,17 @@ L'astronomie, magazine de la Societé Astronomique Française, septembre 2026.
 
 
 **1. Los entornos de las estrellas masivas**  
-Paper for annual book of conference series of the Observatorio de Sababdell, 2025.
+Articulo en el ciclo de conferiencias, curso 2024-2025, Astrosabadell, Agrupacion Astronomica Sabadell, 2025.
+
 
 
 <div class="outreach-gallery-grid gallery-three-columns">
 
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/Cover_astrum.png" >
+    <p> November 2026 </p>
+  </div>
+  
   <div class="outreach-gallery-card">
     <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >
     <p> September 2026 </p>

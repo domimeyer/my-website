@@ -13,6 +13,27 @@ and the human imagination of the heavens.
 
 
 
+<div class="outreach-gallery-grid gallery-three-columns">
+
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/Cover_astrum.png" >
+    <p> November 2026 </p>
+  </div>
+  
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >
+    <p> September 2026 </p>
+  </div>
+
+  <div class="outreach-gallery-card">
+    <img src="/my-website/files/highlights/Llibre_65_ConferVol2.png" >
+    <p> March 2025 </p>
+  </div>
+
+
+</div>
+
+
 ## Magazines articles
 
 
@@ -62,25 +83,6 @@ Articulo en el ciclo de conferiencias, curso 2024-2025, Astrosabadell, Agrupacio
 
 
 
-<div class="outreach-gallery-grid gallery-three-columns">
-
-  <div class="outreach-gallery-card">
-    <img src="/my-website/files/highlights/Cover_astrum.png" >
-    <p> November 2026 </p>
-  </div>
-  
-  <div class="outreach-gallery-card">
-    <img src="/my-website/files/highlights/lastronomie_septembre_2026.png" >
-    <p> September 2026 </p>
-  </div>
-
-  <div class="outreach-gallery-card">
-    <img src="/my-website/files/highlights/Llibre_65_ConferVol2.png" >
-    <p> March 2025 </p>
-  </div>
-
-
-</div>
 
 
 

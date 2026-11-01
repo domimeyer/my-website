@@ -12,6 +12,9 @@ This section gathers public talks, essays and articles at the intersection of mo
 and the human imagination of the heavens.
 
 
+## Magazines articles
+
+
 
 <div class="outreach-gallery-grid gallery-three-columns">
 
@@ -33,8 +36,6 @@ and the human imagination of the heavens.
 
 </div>
 
-
-## Magazines articles
 
 
 **In preparation**  

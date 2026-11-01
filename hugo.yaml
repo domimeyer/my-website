@@ -69,3 +69,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true      
+      
+services:
+  googleAnalytics:
+    id: G-DSE5EVXDD5      

@@ -46,16 +46,16 @@ In prep. for L'astronomie, magazine de la Societé Astronomique Française.
 **Published**  
 
 
-**5. Entrevista**  
+**5. Le Deep Sky Collective : l’observation mutualisée du ciel**  
+Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
+
+
+**4. Entrevista**  
 Astrum, numero 388, Astrosabadell, Agrupacion Astronomica Sabadelll, 2026. 
 
 
-**4. De lo sagrado de los cielos de Oriente a los satelites Starlink**  
+**3. De lo sagrado de los cielos de Oriente a los satelites Starlink**  
 Astrum, numero 388, Astrosabadell, Agrupacion Astronomica Sabadell, 2026. 
-
-
-**3. Le Deep Sky Collective : l’observation mutualisée du ciel**  
-Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
 
 
 **2. Du sacré des cieux d’Orient aux satellites Starlink: comment la modernité transforme notre perception du ciel**  

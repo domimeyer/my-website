@@ -14,7 +14,7 @@ and the human imagination of the heavens.
 
 <div class="outreach-large-image">
   <img src="/my-website/files/highlights/Astrum_cielo_2026.png"><p> D. Meyer, Astrum, November 2026 </p>
-  <img src="/my-website/files/highlights/astro_starlink.png"><p> D. Meyer, L'astronomie, September 2026 </p>
+  <img src="/my-website/files/highlights/Lastronomie_septembre_2026.png"><p> D. Meyer, L'astronomie, September 2026 </p>
 </div>
 
 

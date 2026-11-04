@@ -64,7 +64,7 @@ In prep. for L'astronomie, magazine de la Societé Astronomique Française.
 
 
 **5. Le Deep Sky Collective : l’observation mutualisée du ciel**  
-Accepted to L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
+L'astronomie, magazine de la Societé Astronomique Française, novembre 2026. 
 
 
 **4. Entrevista**  
@@ -85,11 +85,8 @@ Articulo en el ciclo de conferiencias, curso 2024-2025, Astrosabadell, Agrupacio
 
 
 
-
-
-
-
 <div class="outreach-large-image">
+  <img src="/my-website/files/highlights/outreach_deep_sky.png"><p> D. Meyer, L'astronomie, December 2026 </p>
   <img src="/my-website/files/highlights/Astrum_cielo_2026.png"><p> D. Meyer, Astrum, November 2026 </p>
   <img src="/my-website/files/highlights/Lastronomie_septembre_2026.png"><p> D. Meyer, L'astronomie, September 2026 </p>
 </div>
